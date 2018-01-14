@@ -1,0 +1,25 @@
+body{
+	color: blue;
+	background-color: khaki;
+}
+p{
+	color: darkorchid;
+	font-family: verdana;
+	font-size: 125%;
+}
+h1{
+	color: blue;
+	font-family: italic;
+	font-size: 300%;
+
+}
+h2{
+	color: green;
+	font-family: italic;
+	font-size: 200%;
+
+}
+li{
+	color:red;
+	font-size: 200%
+}
